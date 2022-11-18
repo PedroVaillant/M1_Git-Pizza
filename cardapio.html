@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Pizza - Cardápio</title>
+    <link rel="icon" href="./img/logos/IconGit.png">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="principal">
+            <nav class="navbar">
+                <div class="logo">
+                    <a href="index.html"><img src="./img/logos/Logo.png"></a>
+                </div>
+                <a href="index.html">INÍCIO</a>
+                <a href="cardapio.html">CARDÁPIO</a>
+                <a href="sobrenos.html">SOBRE NÓS</a>
+                <a href="faleconosco.html">FALE CONOSCO</a>
+            </nav>
+    </header>
+    <br><br>
+    <main>
+        <h2 class="categoria-pizzas">MAIS PEDIDAS</h2>
+        <ul class="pizzasabores">
+            <li>
+                <img src="./img/cardapio/3Queijos.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar()">
+                <h2 id="tresqueijos">3 QUEIJOS</h2>
+                <p>Queijo, requeijão, oregano e parmesão ralado.</p>
+                <p>R$ 29,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/Calabresa.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar2()">
+                <h2>CALABRESA</h2>
+                <p>Queijo, calabresa e cebola, oregano.</p>
+                <p>R$ 29,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/PizzadeQueijo.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar3()">
+                <h2>PIZZA DE QUEIJO</h2>
+                <p>Queijo e orégano.</p>
+                <p>R$29,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/Margherita.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar4()">
+                <h2>MARGHERITA</h2>
+                <p>Queijo, tomate, oregano e manjericão.</p>
+                <p>R$ 29,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/Pepperoni.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar5()">
+                <h2>PEPPERONI</h2>
+                <p>Queijo, oregano e pepperoni.</p>
+                <p>R$29,90</p>
+            </li>
+        </ul>
+        <br><br>
+        <h2 class="categoria-pizzas">CLÁSSICAS</h2>
+        <ul class="pizzasabores">
+            <li>
+                <img src="./img/cardapio/4Queijos.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar6()">
+                <h2>4 QUEIJOS</h2>
+                <p>Queijo, requeijão, gorgonzola, oregano e parmesão ralado.</p>
+                <p>R$ 39,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/Bauru.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar7()">
+                <h2>BAURU</h2>
+                <p>Queijo, presunto, requeijão, oregano e tomate.</p>
+                <p>R$ 39,90</p>
+                <p>‎</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/Catuperoni.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar8()">
+                <h2>CATUPERONI</h2>
+                <p>Queijo, pepperoni, requeijão, oregano e parmesão ralado.</p>
+                <p>R$ 39,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/FrangocomCreamCheese.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar9()">
+                <h2>FRANGO COM CREAM CHEESE</h2>
+                <p>Queijo, frango desfiado, Cream Cheese, oregano e parmesão ralado.</p>
+                <p>R$ 39,90</p>
+            </li>
+            <li>
+                <img src="./img/cardapio/FrangocomBarbrcue.png">
+                <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar10()">
+                <h2>FRANGO COM BARBECUE</h2>
+                <p>Barbecue, queijo, frango grelhado, cebola, oregano e parmesão.</p>
+                <p>R$ 39,90</p>
+            </li>
+            <br><br>
+            <h2 class="categoria-pizzas">ESPECIAIS</h2>
+            <ul class="pizzasabores">
+                <li>
+                    <img src="./img/cardapio/CalabresaEspecial.png">
+                    <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar11()">
+                    <h2>CALABRESA ESPECIAL</h2>
+                    <p>Queijo, azeitona preta, calabresa, cebola, oregano e Cream Cheese.</p>
+                    <p>R$ 49,90</p>
+                </li>
+                <li>
+                    <img src="./img/cardapio/Portuguesa.png">
+                    <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar12()">
+                    <h2>PORTUGUESA</h2>
+                    <p>Queijo, presunto, ovo de codorna, azeitona preta, cebola, oregano e pimentão verde.</p>
+                    <p>R$ 49,90</p>
+                </li>
+                <li>
+                    <img src="./img/cardapio/Meat_Bacon.png">
+                    <input type="submit" value="PEÇA AGORA" class="pedir" onclick="comprar13()">
+                    <h2>MEAT & BACON</h2>
+                    <p>Queijo, bacon, calabresa, pepperoni, oregano e presunto.</p>
+                    <p>R$ 49,90</p>
+                </li>
+    </main>
+    <br>
+    <footer class="rodape">
+        <div class="rede-sociais">
+            <a href="https://web.facebook.com/" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LOGOS/LogoFacebook.png"></img>
+                <p>Facebook</p>
+            </a>
+            <a href="https://web.whatsapp.com" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LOGOS/LogoWhatsapp.png"></img>
+                <p>Whatsapp</p>
+            </a>
+            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LOGOS/LogoInstagram.png"></img>
+                <p>Instagram</p>
+            </a>
+        </div>
+    </footer>
+</body>
+
+</html>

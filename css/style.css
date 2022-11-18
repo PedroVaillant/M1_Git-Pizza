@@ -1,0 +1,254 @@
+/* ESTILO DE FONTE */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+
+/* CONFIGURAÇÃO PARA TUDO */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    overflow-x: hidden;
+}
+
+
+
+/* BARRA DE NAVEGAÇÃO DE TODAS AS PÁGINAS*/
+.principal {
+    background:#D01110;
+    border: black solid 1px;
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+    padding: 10px 2% 1% 2%;
+}
+
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+
+.logo img:hover{
+    transform: scale(1.2);
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.navbar a:hover{
+    transform: scale(1.5);
+    color: white;
+}
+
+/* INDEX */
+.promocoes{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.promocoes img{
+    height: 980px;
+    width: 1455px;
+    text-align: center;
+    margin:25px 0 0 45px;
+}
+
+/* CARDÁPIO */
+.categoria-pizzas{
+    text-align: center;
+}
+
+.pizzasabores {
+	width: 1000px;
+	margin: auto;
+}
+
+.pizzasabores li {
+	display: inline-block;
+    flex-direction: row;
+	text-align: center;
+	width: 30%;
+	margin: 0 1.5%;
+	box-sizing: border-box;
+}
+
+.pizzasabores p{
+    text-align: center;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.pizzasabores h2 {
+    text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.pizzasabores img{
+    border-radius: 10px;
+}
+
+.pedir {
+    width: 100%;
+    padding: 1px 0;
+    background: red;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s background;
+}
+
+.pedir:hover {
+    color: white;
+    background-color: darkred;
+}
+
+
+
+/* FALE CONOSOCO */
+
+.formulario {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label, form p, select {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.span-required {
+    display: none;
+    font-size: 14px;
+    color: red;
+    margin: 3px 0 0 1px;
+}
+
+select {
+    width: 40%;
+}
+
+
+
+.input-padrao {
+    display: block;
+    margin: 0 0 10px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background: red;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s background;
+    margin-top: 30px;
+}
+
+.enviar:hover {
+    color: white;
+    background-color: darkred;
+}
+
+
+
+/* SOBRE NÓS */
+.titulo-sobre{
+    text-align: center;
+    font-size: 45px;
+}
+
+section p{
+    padding: 0 0 0 30px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.funcionarios{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+	width: 100%;
+}
+
+.funcionarios img{
+    width: 350px;
+    height: 450px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.funcionarios h2{
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+}
+
+.funcionarios p{
+    font-size: 25px;
+    text-align: center;
+}
+
+/* RODAPÉ DE TODAS AS PÁGINAS */
+.rodape {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid black;
+    background-color: #EBE7D0;
+}
+
+.rede-sociais{
+	display: flex;
+    padding: 0 0 0 43%;
+}
+
+.rede-sociais img{
+    width: 25px;
+    height: 25px;
+    padding: 0 0 0 20%;
+    text-align: center;
+}
+
+.rede-sociais p{
+    text-align: center;
+    padding: 0 0 0 20px;
+}
+
+.rede-sociais a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}

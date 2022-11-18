@@ -1,0 +1,21 @@
+  "MAIS PEDIDAS DA DOMINOS"
+3 QUEIJOS - Queijo, requeijão, oregano e parmesão ralado.
+CALABRESA - Queijo, calabresa e cebola, oregano.
+PIZZA DE QUEIJO - Queijo e orégano.
+MARGHERITA - Queijo, tomate, oregano e manjericão.
+PEPPERONI - Queijo, oregano e pepperoni.
+
+   "CLASSICAS DA DOMINOS"
+4 QUEIJOS - Queijo, requeijão, gorgonzola, oregano e parmesão ralado.
+FRANGO COM REQUEIJÂO ESPECIAL - Frango desfiado, cebola, oregano e requeijão
+BAURU - Queijo, presunto, requeijão, oregano e tomate.
+CATUPERONI - Queijo, pepperoni, requeijão, oregano e parmesão ralado.
+FRANGO COM CREAM CHEESE - Queijo, frango desfiado, Cream Cheese, oregano e parmesão ralado.
+FRANGO COM BARBECUE - Barbecue, queijo, frango grelhado, cebola, oregano e parmesão.
+
+   "ESPECIAIS"
+CALABRESA ESPECIAL - Queijo, azeitona preta, calabresa, cebola, oregano e Cream Cheese.
+PORTUGUESA - Queijo, presunto, ovo de codorna, azeitona preta, cebola, oregano e pimentão verde.
+MEAT & BACON - Queijo, bacon, calabresa, pepperoni, oregano e presunto.
+
+

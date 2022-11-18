@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Pizza - Fale conosco</title>
+    <link rel="icon" href="./img/logos/IconGit.png">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js"></script>
+</head>
+
+<body>
+    <header>
+    <div class="principal">
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html"><img src="./img/logos/Logo.png"></a>
+            </div>
+            <a href="index.html">INÍCIO</a>
+            <a href="cardapio.html">CARDÁPIO</a>
+            <a href="sobrenos.html">SOBRE NÓS</a>
+            <a href="faleconosco.html">FALE CONOSCO</a>
+        </nav>
+    </header>
+    <main>
+        <div class="formulario">
+            <form id="form">
+                <label for="nomesobrenome">Nome completo</label>
+                <input type="text" id="nomeCompleto" class="input-padrao" required oninput="nameValidate()">
+                <span id="span-nome" class="span-required">Nome deve conter no mínimo 3 caracteres</span>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com" oninput="emailValidate()">
+                <span id="span-email" class="span-required">Email inválido</span>
+
+                <label for="telefone">Telefone</label>
+                <input type="tel" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX-XXXX" oninput="telefoneValidate()">
+                <span id="span-telefone"class="span-required">Número de telefone inválido</span>
+
+                <div>
+                    <p>Assunto</p>
+                    <select>
+                        <option>Elogios</option>
+                        <option>Dúvidas</option>
+                        <option>Pedidos</option>
+                        <option>Sugestões</option>
+                        <option>Outros</option>
+                    </select>   
+                </div>    
+
+                <label for="mensagem">Mensagem</label>
+                <textarea cols="70" rows="10" id="mensagem" class="input-padrao" required oninput="mensagemValidate()"></textarea>
+                <span id="span-mensagem" class="span-required">Preencha esse campo</span>
+
+                <!-- <div>
+                    <p>Como prefere o nosso contato?</p>
+                    <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email"> Email</label>
+                    
+
+                    <label for="radio-telefone"><input type="radio" name="contato" value="telefone" id="radio-telefone"> Telefone</label>
+                    
+
+                    <label for="radio-whatsapp"><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked> Whatsapp</label>
+                </div>
+
+
+                <label><input class="checkbox" type="checkbox" checked> Gostaria de receber nossas novidades por email?</label> -->
+
+                <input type="submit" value="Enviar formulário" class="enviar" onclick="enviar()">
+            </div>
+        </form>
+
+    </main>
+    <footer class="rodape">
+        <div class="rede-sociais">
+            <a href="https://web.facebook.com/" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LOGOS/LogoFacebook.png"></img>
+                <p>Facebook</p>
+            </a>
+            <a href="https://web.whatsapp.com" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LOGOS/LogoWhatsapp.png"></img>
+                <p>Whatsapp</p>
+            </a>
+            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+                <img src="./img/LOGOS/LogoInstagram.png"></img>
+                <p>Instagram</p>
+            </a>
+        </div>
+    </footer>
+</body>
+
+</html>
