@@ -13,6 +13,6 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 </div>
 
 ## Membros do grupo
-* Alex Sandro Aguilar Guerrero Sarmento <a href="youtube.com"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a>
+* Alex Sandro Aguilar Guerrero Sarmento <a href="https://github.com/AlexProgramadorS"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a>
 
 https://pedrovaillant.github.io/M1_Git-Pizza/index.html
