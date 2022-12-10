@@ -13,11 +13,11 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 </div>
 
 ## Membros do grupo
-* <a href="https://github.com/AlexProgramadorS"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
-* <a href="https://github.com/JoaoOcho"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> João Pedro Guimarães Ochotorena
-* <a href="https://github.com/LucasProgramador1000"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Lucas Verisimo Sales
-* <a href="#"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Millena Silva Meira
-* <a href="https://github.com/PedroVaillant"><img align="center" alt="Will-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Pedro Henrique dos Santos Vaillant
+* <a href="https://github.com/AlexProgramadorS"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
+* <a href="https://github.com/JoaoOcho"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> João Pedro Guimarães Ochotorena
+* <a href="https://github.com/LucasProgramador1000"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Lucas Verisimo Sales
+* <a href="#"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Millena Silva Meira
+* <a href="https://github.com/PedroVaillant"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Pedro Henrique dos Santos Vaillant
 
 
 https://pedrovaillant.github.io/M1_Git-Pizza/index.html
