@@ -20,4 +20,7 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 * <a href="https://github.com/PedroVaillant"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Pedro Henrique dos Santos Vaillant
 
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
 https://pedrovaillant.github.io/M1_Git-Pizza/index.html
