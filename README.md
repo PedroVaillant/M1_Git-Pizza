@@ -13,7 +13,7 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 </div>
 
 ## 👥 Membros do grupo
-* <a href="https://github.com/AlexProgramadorS"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
+* <a href="https://github.com/AlexProgramadorS"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
 * <a href="https://github.com/JoaoOcho"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> João Pedro Guimarães Ochotorena
 * <a href="https://github.com/LucasProgramador1000"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Lucas Verisimo Sales
 * <a href="#"><img align="center" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a> Millena Silva Meira
@@ -21,6 +21,5 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
 https://pedrovaillant.github.io/M1_Git-Pizza/index.html
