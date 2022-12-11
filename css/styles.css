@@ -9,6 +9,7 @@
     margin: 0;
     font-family: 'Oswald', sans-serif;
     overflow-x: hidden;
+    text-align: center;
 }
 
 
@@ -67,6 +68,7 @@
     height: 980px;
     width: 1455px;
     padding:25px 220px ;
+    text-align: center;
 }
 
 /* CARDÁPIO */
@@ -130,11 +132,11 @@
 }
 
 form {
-    margin: 40px 0;
+    margin: 40px ;
 }
 
 form label, form p, select {
-    display: block;
+    display: flex;
     font-size: 20px;
     margin: 0 0 10px;
 }
@@ -223,7 +225,7 @@ section p{
 
 /* RODAPÉ DE TODAS AS PÁGINAS */
 .rodape {
-    display: flex;
+    text-align: center;
     padding: 10px;
     border-top: 1px solid black;
     background-color: #EBE7D0;
