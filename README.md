@@ -14,7 +14,5 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 * <a href="#"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Millena Silva Meira
 * <a href="https://github.com/PedroVaillant"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Pedro Henrique dos Santos Vaillant
 
-
-
-          
-https://pedrovaillant.github.io/M1_Git-Pizza/index.html
+---          
+🌐 Link para acessar o prjeto: https://pedrovaillant.github.io/M1_Git-Pizza/index.html
