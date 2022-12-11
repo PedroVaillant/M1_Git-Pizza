@@ -12,6 +12,7 @@ No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
 
 ## 👥 Membros do grupo
 * <a href="https://github.com/AlexProgramadorS"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Alex Sandro Aguilar Guerrero Sarmento
+* <a href="https://github.com/JoaoOcho"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> João Pedro Guimarães Ochotorena
 * <a href="https://github.com/JoaoOcho"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Lucas Verisimo Sales
 * <a href="#"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Millena Silva Meira
 * <a href="https://github.com/PedroVaillant"><img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><a> Pedro Henrique dos Santos Vaillant
