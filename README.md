@@ -1,10 +1,8 @@
-# 🍕 Projeto em grupo da Resilia - Git Pizza
+# 🍕 Projeto em grupo - Ajude um microempreendedo
 Projeto em grupo do primeiro módulo, do curso Programadores Cariocas junto com a Resilia. A ideia deste projeto e criar nosso primeiro site, para um negócio local fictício, onde nos elaboramos uma pizzaria que foi criada durante a pandemia de 2020 por cinco programadores amigos. 
 
-## 💻 Tecnologias utilizadas
+### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
-No nosso projeto, foram utilizados HTML5, CSS3 e o Javascript.
-<br>
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
