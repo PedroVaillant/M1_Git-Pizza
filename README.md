@@ -1,5 +1,5 @@
 # 🍕 Projeto: Ajude um microempreendedor
-Projeto em grupo do primeiro módulo, do curso Programadores Cariocas junto com a Resilia. A ideia deste projeto e criar nosso primeiro site, para um negócio local fictício, onde nos elaboramos uma pizzaria que foi criada durante a pandemia de 2020 por cinco programadores amigos. 
+Projeto em grupo do 1º módulo, do curso Full-Stack Programadores Cariocas junto com a Resilia. A ideia deste projeto e criar nosso primeiro site, para um negócio local fictício, onde nos elaboramos uma pizzaria que foi criada durante a pandemia de 2020 por cinco programadores amigos. 
 
 ### 💻 Tecnologias utilizadas
 <div align="center" style="display: inline_block">
